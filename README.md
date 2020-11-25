@@ -2,6 +2,14 @@
 
 - JSP 게시판 만들기 강좌(동빈나님)를 바탕으로 만든 게시판입니다.
 
+  * 배포는 다른 프로젝트들과 모아서 할 예정
+
+------------
+강의 완료 // 2020-11-26
+-
+- JSP 게시판 만들기 강좌 13강 - 게시글 수정 및 삭제 기능 구현하기 (JSP Advanced Development Tutorial #13)
+- JSP 게시판 만들기 강좌 14강 - 웹 사이트 메인 페이지 디자인 (JSP Advanced Development Tutorial #14)
+- JSP 게시판 만들기 강좌 15강 - 프로젝트 완성 및 배포 (JSP Advanced Development Tutorial #15)
 ------------
 완료 // 2020-11-23
 -
