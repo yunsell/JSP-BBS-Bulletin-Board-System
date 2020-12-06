@@ -1,4 +1,4 @@
-#JSP-BBS-Bulletin-Board-System
+# JSP-BBS-Bulletin-Board-System
 
 - JSP 게시판 만들기 강좌(동빈나님)를 바탕으로 만든 게시판입니다.
 ![JSP](https://user-images.githubusercontent.com/67350653/101282948-34709d00-381b-11eb-8be5-87fca0fa68f8.PNG)
